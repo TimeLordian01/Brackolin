@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"valeyardstudios/brackint/Floor"
+	"$bumpmap"	"valeyardstudios/brackint/Floor_n"
+	$detail "valeyardstudios/brackint/Floor"
+	$detailscale 1
+	$detailblendfactor 1
+	$detailblendmode 1
+	$color2 "[0.31 0.3 0.3]"
+}

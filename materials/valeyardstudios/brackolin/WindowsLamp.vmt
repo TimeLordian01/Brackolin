@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "valeyardstudios/brackolin/WindowsLamp"
+	$detail "valeyardstudios/brackolin/WindowsLamp"
+	$detailscale 1
+	$detailblendfactor 3
+	$detailblendmode 5
+	$color2 "[0.2 0.2 0.2]"
+	$detailtint "[0.1 0.1 0.1]"
+	"$translucent" 1
+}
