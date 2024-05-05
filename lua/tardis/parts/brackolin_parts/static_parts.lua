@@ -11,8 +11,8 @@ TARDIS:AddPart(PART)
 
 local PART={}
 PART.ID = "roundelinteriordoors"
-PART.Name = "Brackolin Roundel Entry Doors"
-PART.Model = "models/valeyardstudios/brackint/roundeldoorentrance.mdl"
+PART.Name = "roundelinteriordoors"
+PART.Model = "models/ValeyardStudios/Brackint/RoundelDoorEntrance.mdl"
 PART.AutoSetup = true
 PART.Collision = true
 PART.Animate = true

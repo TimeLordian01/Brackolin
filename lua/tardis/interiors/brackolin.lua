@@ -119,6 +119,7 @@ T.Interior = {
 	Sequences = "default_sequences",
 	--Part Classification
 	Parts={
+		roundelinteriordoors = {ang=Angle(0,-90,0)},
 		console=false,
 		--InteriorDoor Model and Location
 		door={
@@ -127,7 +128,7 @@ T.Interior = {
 			angoffset= Angle(0, 180, 0)
 		},
 	},
-	roundelinteriordoors = {},
+	
 	--Control Parts
 	Controls={
 	},

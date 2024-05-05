@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"valeyardstudios/brackolin/interior/roundels/roundelplastic"
+	"$bumpmap"	"valeyardstudios/brackolin/interior/roundels/roundelplastic_n"
+	"$envmap" "env_cubemap"
+	"$envmaptint"  "[.0125 .0125 .0125]"
+	"$rimlight"	"1"
+	"$rimlightexponent""2"
+	"$rimlightboost"	"1"
+}

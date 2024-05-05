@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture"	"valeyardstudios/brackint/Roof"
-	"$bumpmap"	"valeyardstudios/brackint/Roof_n"
-	$detail "valeyardstudios/brackint/Roof"
-	$detailscale 1
-	$detailblendfactor 1
-	$detailblendmode 1
-	$color2 "[0.31 0.3 0.3]"
