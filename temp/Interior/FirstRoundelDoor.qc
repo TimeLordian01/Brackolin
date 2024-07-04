@@ -64,9 +64,9 @@ $sequence switch { 1 2 3 4 5 6 7 8 9 10 blendwidth 10 blend switch 0 1 weightlis
 
 $texturegroup skinfamilies
 {
-    {"RoundelPlastic" "RoundelDarkPlastic" "Roundel_White"}
-    {"RoundelPlastic" "RoundelDarkPlastic" "Roundel_Red"}
-    {"RoundelPlastic" "RoundelDarkPlastic" "Roundel_Green"}
-    {"RoundelPlastic" "RoundelDarkPlastic" "Roundel_Blue"}
-    {"RoundelPlastic" "RoundelDarkPlastic" "Roundel_Unlit"} 
+    {"Roundel"}
+    {"Roundel_R"}
+    {"Roundel_G"}
+    {"Roundel_B"}
+    {"Roundel_U"}
 }

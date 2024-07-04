@@ -5,7 +5,6 @@
 	$detailscale 1
 	$detailblendfactor 3
 	$detailblendmode 5
-	$color2 "[0.75 0.75 0.75]"
-	$detailtint "[0.75 0.75 0.75]"
+	$color2 "[0.75 0.2 0.2]"
+	$detailtint "[0.75 0.2 0.2]"
 }
-

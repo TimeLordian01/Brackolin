@@ -1,13 +1,4 @@
-print("test")
-
-local PART={}
-PART.ID = "interiordoorframe"
-PART.Name = "interiordoorframe"
-PART.Model = "models/valeyardStudios/brackolin/InteriorDoorFrame.mdl"
-PART.AutoSetup = true
-PART.Collision = true
-
-TARDIS:AddPart(PART)
+print("RoundelDoorLoading")
 
 local PART={}
 PART.ID = "roundelinteriordoors"
@@ -25,3 +16,18 @@ if SERVER then
 end
 
 TARDIS:AddPart(PART)
+
+print("RoundelDoorLoaded")
+
+print("RoundelSet1Loading")
+
+local PART={}
+PART.ID = "roundelset1"
+PART.Name = "roundelset1"
+PART.Model = "models/ValeyardStudios/Brackint/roundelset1.mdl"
+PART.AutoSetup = true
+PART.Collision = true
+
+TARDIS:AddPart(PART)
+
+print("RoundelSet1Loaded")
