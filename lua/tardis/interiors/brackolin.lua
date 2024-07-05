@@ -219,16 +219,16 @@ Teleport={
 --Any Texture sets used in the interior
 T.Interior.TextureSets = {
 	["normal"] = {
-		prefix = "valeyardstudios/brackolin/",
-				{"test", 0, "test"},
+		prefix = "valeyardstudios/brackolin/interior/roundels",
+				{"roundelinteriordoors", 0, "roundel"},
 			},
 	["poweroff"] = {
-		prefix = "valeyardstudios/texturesets/off/",
-				{"roundel", 0, "roundel"},
+		prefix = "valeyardstudios/brackolin/interior/roundels/off",
+				{"roundelinteriordoors", 6, "roundel_u"},
 	},
 	["warning"] = {
-		prefix = "valeyardstudios/texturesets/warning/",
-				{"roundel", 0, "roundel"},
+		prefix = "valeyardstudios/brackolin/interior/roundels/warn",
+				{"roundelinteriordoors", 3, "roundel_r"},
 	},
 }
 
