@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "valeyardstudios\brackolin\interior\controls\keyboard"
+	"$bumpmap" "valeyardstudios\brackolin\interior\controls\keyboard_n"
+	"$normalmap" "valeyardstudios\brackolin\interior\controls\keyboard_r"
+	"$surfaceprop" "Wood_Solid"
+	"$nodecal" "1"
+
+	"$phong"				"1"
+	"$phongexponent"		"30"
+	"$phongboost"			"0.15"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}
