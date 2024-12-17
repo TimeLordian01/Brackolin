@@ -1,24 +1,3 @@
-print("RoundelDoorLoading")
-
-local PART={}
-PART.ID = "roundelinteriordoors"
-PART.Name = "roundelinteriordoors"
-PART.Model = "models/ValeyardStudios/Brackint/RoundelDoorEntrance.mdl"
-PART.AutoSetup = true
-PART.Collision = true
-PART.Animate = true
-PART.AnimateSpeed = 1
-
-if SERVER then
-	function PART:Use(activator)
-		self:SetCollide(self:GetOn())
-	end
-end
-
-TARDIS:AddPart(PART)
-
-print("RoundelDoorLoaded")
-
 print("RoundelSet1Loading")
 
 local PART={}
@@ -58,19 +37,6 @@ TARDIS:AddPart(PART)
 
 print("PillarsLoaded")
 
-print("ManualFlightLoading")
-
-local PART={}
-PART.ID = "manualflight"
-PART.Name = "manualflight"
-PART.Model = "models/ValeyardStudios/Brackint/controls/ManualFlight.mdl"
-PART.AutoSetup = true
-PART.Collision = true
-
-TARDIS:AddPart(PART)
-
-print("ManualFlightLoaded")
-
 print("FloorLoading")
 
 local PART={}
@@ -83,3 +49,96 @@ PART.Collision = true
 TARDIS:AddPart(PART)
 
 print("FloorLoaded")
+
+print("FrameSet1Loading")
+
+local PART={}
+PART.ID = "frameset1"
+PART.Name = "frameset1"
+PART.Model = "models/ValeyardStudios/Brackint/FrameSet1.mdl"
+PART.AutoSetup = true
+PART.Collision = true
+
+TARDIS:AddPart(PART)
+
+print("FrameSet1Loaded")
+
+print("FrameSet2Loading")
+
+local PART={}
+PART.ID = "frameset2"
+PART.Name = "frameset2"
+PART.Model = "models/ValeyardStudios/Brackint/FrameSet2.mdl"
+PART.AutoSetup = true
+PART.Collision = false
+
+TARDIS:AddPart(PART)
+
+print("FrameSet2Loaded")
+
+print("FrameSet3Loading")
+
+local PART={}
+PART.ID = "frameset3"
+PART.Name = "frameset3"
+PART.Model = "models/ValeyardStudios/Brackint/FrameSet3.mdl"
+PART.AutoSetup = true
+PART.Collision = false
+
+TARDIS:AddPart(PART)
+
+print("FrameSet3Loaded")
+
+print("FrameSet4Loading")
+
+local PART={}
+PART.ID = "frameset4"
+PART.Name = "frameset4"
+PART.Model = "models/ValeyardStudios/Brackint/FrameSet4.mdl"
+PART.AutoSetup = true
+PART.Collision = true
+
+TARDIS:AddPart(PART)
+
+print("FrameSet4Loaded")
+
+print("RoofLoading")
+
+local PART={}
+PART.ID = "roof"
+PART.Name = "roof"
+PART.Model = "models/ValeyardStudios/Brackint/roof.mdl"
+PART.AutoSetup = true
+PART.Collision = true
+
+TARDIS:AddPart(PART)
+
+print("RoofLoaded")
+
+print("Console Loading")
+
+local PART={}
+PART.ID = "consolebrackolin"
+PART.Name = "consolebrackolin"
+PART.Model = "models/ValeyardStudios/Brackint/console.mdl"
+PART.AutoSetup = true
+PART.Collision = true
+
+TARDIS:AddPart(PART)
+
+print("Console Loaded")
+
+--Controls
+
+print("ManualFlightLoading")
+
+local PART={}
+PART.ID = "manualflight"
+PART.Name = "manualflight"
+PART.Model = "models/ValeyardStudios/Brackint/controls/ManualFlight.mdl"
+PART.AutoSetup = true
+PART.Collision = true
+
+TARDIS:AddPart(PART)
+
+print("ManualFlightLoaded")

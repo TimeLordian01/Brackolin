@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"valeyardstudios/brackolin/intdoors"
+	"$bumpmap"	"valeyardstudios/brackolin/intdoors_n"
+	"$normalmap" "valeyardstudios/brackolin/intdoors_r"
+	
+	$detail "valeyardstudios/brackolin/intdoors"
+	$detailscale 1
+	$detailblendfactor 3
+	$detailblendmode 1
+	$color2 "[1 1 1]"
+	$detailtint "[1 1 1]"
+}

@@ -1,11 +1,5 @@
 "VertexlitGeneric"
 {
 	"$basetexture" "valeyardstudios/brackolin/interior/roundels/Roundel"
-	$detail "valeyardstudios/brackolin/interior/roundels/Roundel"
-	$detailscale 1
-	$detailblendfactor 3
-	$detailblendmode 5
-	$color2 "[0.2 0.2 0.2]"
-	$detailtint "[0.2 0.2 0.2]"
 }
 

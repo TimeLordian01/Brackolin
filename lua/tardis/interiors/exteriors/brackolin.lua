@@ -15,8 +15,6 @@ Portal = {
 	thickness = 22,
 	inverted = true,
 },
-
-
 	Fallback={
 		pos=Vector(55,0,5),
 		ang=Angle(0,0,0)
@@ -73,8 +71,5 @@ Teleport={
 			255
 		    }
       }
-    }
-
- 
-
+   }
 TARDIS:AddExterior(E)

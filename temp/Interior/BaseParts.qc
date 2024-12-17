@@ -1,13 +1,13 @@
 $Scale 41
 
-$ModelName "ValeyardStudios\BrackInt\MainRoom.mdl"
+$ModelName "ValeyardStudios\BrackInt\Console.mdl"
 
-$BodyGroup "MainRoom"
+$BodyGroup "Console"
 {
-    studio "MainRoom.smd"
+    studio "CBase.smd"
 }
 
-$CDMaterials "valeyardstudios/BrackInt"
+$CDMaterials "valeyardstudios/brackolin/interior/console"
 
 $SurfaceProp "wood"
 
@@ -17,7 +17,7 @@ $CBox 0 0 0 0 0 0
 
 $bbox -39.267 -45.303 -10.767 39.267 45.303 45.835
 
-$CollisionModel "MainRoomCollider.smd"
+$CollisionModel "ConsoleCollider.smd"
 {
     $mass 1000
     $inertia 1

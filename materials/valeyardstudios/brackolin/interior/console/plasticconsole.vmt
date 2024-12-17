@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+    $basetexture "valeyardstudios/brackolin/interior/console/plasticconsole_base"
+    $bumpmap         "valeyardstudios/brackolin/interior/console/plasticconsole_normal"
+    $nodecal 1
+    $diffuseexp 1
+    $nocull 0
+    $phong 1
+    $phongalbedotint 1
+    $phongalbedoboost 5
+    $phongexponent 1
+    $phongexponenttexture  "valeyardstudios/brackolin/interior/console/plasticconsole_roughness"
+    $phongboost 5
+    $phongfresnelranges "[0.05 0.25 1.5]"
+    "$rimlight"                    "1"
+    "$rimlightexponent"            "10"
+    "$rimlightboost"            "1"
+    "$rimmask"                    "1"
+} 
+
+

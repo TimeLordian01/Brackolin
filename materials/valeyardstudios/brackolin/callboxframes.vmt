@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"valeyardstudios/brackolin/callboxframes"
+	"$bumpmap"	"valeyardstudios/brackolin/callboxframes_n"
+	"$normalmap" "valeyardstudios/brackolin/callboxframes_r"
+	
+
+	$detail "valeyardstudios/brackolin/callboxframes"
+	$detailscale 1
+	$detailblendfactor 3
+	$detailblendmode 1
+	$color2 "[1 1 1]"
+	$detailtint "[1 1 1]"
+}

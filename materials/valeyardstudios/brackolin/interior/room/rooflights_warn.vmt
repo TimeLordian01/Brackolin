@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "valeyardstudios\brackolin\interior\room\rooflights"
+	$detail "valeyardstudios\brackolin\interior\room\rooflights"
+	$detailscale 1
+	$detailblendfactor 3
+	$detailblendmode 5
+	$color2 "[1 0.2 0.2]"
+	$detailtint "[1 0.2 0.2]"
+	"$translucent" 1
+}

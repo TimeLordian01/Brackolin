@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "valeyardstudios\brackolin\interior\room\trussbulb"
+	"$bumpmap" "valeyardstudios\brackolin\interior\room\trussbulb_n"
+	"$normalmap" "valeyardstudios\brackolin\interior\room\trussbulb_r"
+	"$surfaceprop" "wood"
+	"$nodecal" "1"
+
+	"$phong"				"1"
+	"$phongexponent"		"1"
+	"$phongboost"			"0.15"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$selfillum" 1
+	"$selfillummask"  "valeyardstudios\brackolin\interior\room\trussbulb"
+	"$selfillumtint" "[0.25 0.75  1]"
+}
